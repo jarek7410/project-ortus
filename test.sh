@@ -1,3 +1,5 @@
 git checkout resources
-cp -r .wallpaper ../.wallpaper 
+cd ..
+cp  project-ortus/.wallpaper .wallpaper 
+cd project-ortus
 git checkout tests
