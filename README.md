@@ -5,3 +5,8 @@
 sometimes you need to use it 
 ![](https://ru.wikipedia.org/wiki/Nano#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Gnu-nano.svg)
 ![](https://github-readme-stats.vercel.app/api?username=jarek7410&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jarek7410&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jarek7410&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jarek7410&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
